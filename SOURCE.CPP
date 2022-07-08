@@ -2,9 +2,9 @@
 	
 	Title			: Hotel Management System
 	Language		: C++
-	Author			: Sabavath Akash
-	Date Created	: 16-02-2022
-	Last Modified	: 01-04-2022
+	Author			: Dharmendra Mahala
+	Date Created	: 03-02-2022
+	Last Modified	: 11-03-2022
 
 */
 
@@ -27,7 +27,7 @@ void intro() {
 	cout<<"°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°";
 	cout<<"||\t\t\t\t\t\t\t\t\t      ||";
 	cout<<"||\t\t\t\t\t\t\t\t\t      ||";
-	cout<<"||\t\t\t\tSabavath Akash\t\t\t      ||";
+	cout<<"||\t\t\t\tDharmendra Mahala\t\t\t      ||";
 	cout<<"||\t\t\t\t\t\t\t\t\t      ||";
 	cout<<"||\t\t\t\t\t  \t\t\t\t      ||";
 	cout<<"°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°";
